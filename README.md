@@ -1,1 +1,1 @@
-# ESP8266 and Arduini Nano
+# ESP8266 and Arduino Nano
